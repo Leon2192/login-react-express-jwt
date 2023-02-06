@@ -9,3 +9,7 @@
 - Node js express
 - Chakra UI
 - Jsonwebtoken
+
+##### Credenciales para probar la app:
+##### Usuario: larrieta
+##### Clave: 12345
